@@ -5,7 +5,7 @@
 export const environment = {
   production: false,
   agora: {
-    appId: ''
+    appId: 'ba66dade296440a0bc572de4eb19dbd5'
   }
 };
 
